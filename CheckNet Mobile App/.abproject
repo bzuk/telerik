@@ -1,0 +1,8 @@
+{
+  "ProjectName": "CheckNet Mobile App",
+  "ProjectGuid": "572f9743-218a-4693-acb4-57c56c654d1c",
+  "projectVersion": 1,
+  "ProjectTypeGuids": "{da2f9169-4696-40a5-919b-f73985228cac}",
+  "FrameworkVersion": "0.0.1",
+  "Framework": "MobileWebsite"
+}
